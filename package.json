@@ -1,0 +1,31 @@
+{
+  "name": "pinterest-dl",
+  "version": "1.0.0",
+  "description": "a library to search and download images from pinterest ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swag666baby/pinterest-dl.git"
+  },
+  "keywords": [
+    "pinterest",
+    "download",
+    "scraper",
+    "search",
+    "images",
+    "dl"
+  ],
+  "author": "Swag666baby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swag666baby/pinterest-dl/issues"
+  },
+  "homepage": "https://github.com/swag666baby/pinterest-dl#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
